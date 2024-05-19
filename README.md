@@ -29,3 +29,5 @@ The final presentation slide deck has also been attached, which includes the fol
 	- Most popular ship mode
 	- Customer segmentation
 	- Customer retention and growth
+
+The graphs were created using Tableau.
