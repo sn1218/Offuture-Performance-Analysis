@@ -1,11 +1,13 @@
 # Offuture Performance Analysis
 <b>The situation: </b> 
+
 Offuture is a fictional online global office and technology store. The store has been running online since 2010 and delivers high quality office furniture, technology and office supplies across the globe. 
 
 In 2020, Offuture appointed a well-known consultancy to explore their sales data and build a data model to predict future sales. At first the process went well, until the final presentation – the consultant quoted some facts & figures about Offuture’s performance that
 Hamish Boxworth, the CEO of Offuture, knew to be wrong. With the trust lost, Hamish decided that he couldn’t trust any of the work produced by the consultancy company.
 
 <b>The brief:</b> 
+
 Offuture has approached your Data Science firm to produce a proof of concept. 
 
 Offuture are confident they know the performance break down of their business from 2011 to 2015 – they want to see proof that your team can produce accurate trustworthy results, before engaging with you further to produce predictive models. Offuture are providing a data file of their sales from 2011 to 2015. They would like you to conduct a Descriptive Analytics project to detail their performance during the time period. 
@@ -13,6 +15,7 @@ Offuture are confident they know the performance break down of their business fr
 Offuture have no specific questions for this proof of concept. They want you to describe the performance from the data.
 
 <b>Results:</b>
+
 Quality checks have been conducted on the supplied data. A quality check form and the .sql file can be located in this repository. 
 
 The final presentation slide deck has also been attached, which includes the following:
