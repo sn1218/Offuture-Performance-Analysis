@@ -1,31 +1,52 @@
 # Offuture Performance Analysis
-## The Scenario 
+## Overview
 
-Offuture is a fictional online global office and technology store. The store has been running online since 2010 and delivers high quality office furniture, technology and office supplies across the globe. 
+Offuture is a global online store specializing in office furniture, technology, and office supplies. Since its launch in 2010, Offuture has delivered high-quality products worldwide. In 2020, the company engaged a consulting firm to analyze their sales data and build predictive models. However, due to inaccuracies in the consultant’s final presentation, Offuture’s CEO, Hamish Boxworth, lost trust in the consultancy’s findings.
 
-In 2020, Offuture appointed a well-known consultancy to explore their sales data and build a data model to predict future sales. At first the process went well, until the final presentation – the consultant quoted some facts & figures about Offuture’s performance that
-Hamish Boxworth, the CEO of Offuture, knew to be wrong. With the trust lost, Hamish decided that he couldn’t trust any of the work produced by the consultancy company.
+To restore confidence, Offuture has approached our Data Science firm to conduct a proof of concept. This project focuses on Descriptive Analytics for Offuture’s historical sales data from 2011 to 2015. The goal is to provide accurate and reliable insights into their performance during this period.
 
-Offuture has approached your Data Science firm to produce a proof of concept. 
+Offuture is not asking any specific questions but expects a comprehensive analysis of their sales, profit, and other key performance metrics to demonstrate our capability before moving to more predictive tasks.
 
-Offuture are confident they know the performance break down of their business from 2011 to 2015 – they want to see proof that your team can produce accurate trustworthy results, before engaging with you further to produce predictive models. Offuture are providing a data file of their sales from 2011 to 2015. They would like you to conduct a Descriptive Analytics project to detail their performance during the time period. 
+## Objectives
 
-Offuture have no specific questions for this proof of concept. They want you to describe the performance from the data.
+This project aims to deliver an accurate, data-driven analysis of Offuture’s sales performance from 2011 to 2015. Tasks include:
+
+* Analysing historical sales data to reveal key business insights.
+* Presenting accurate statistics on orders, revenue, and profit.
+* Identifying best- and worst-performing products.
+* Conducting a detailed market analysis focusing on key regions (APAC and EU).
+* Exploring factors that drive profitability, such as product categories, shipping modes, and customer behavior.
 
 ## The Project
+### Data Quality Checks
 
-Quality checks have been conducted on the supplied data. A quality check form and the .sql file can be located in this repository. 
+Before proceeding with the analysis, a thorough quality check of the provided data was performed. The Quality Check Form and accompanying .sql file are available in the repository. These documents outline the steps taken to ensure data integrity, including checks for missing data, inconsistencies, and outliers.
 
-The final presentation slide deck has also been attached, which includes the following:
-- Summary statistics of total count of orders, total revenue, and total profit
-- Best and worst performing products worldwide in terms of sales and profit
-- Yearly overviews of orders, sales, and profits
-- Market analysis by region, focusing on APAC and the EU as they are the most profitable regions
-	- Includes: year on year profit, best and worst performing products by profit
-- Detailed analysis on what drives profit
-	- Most popular sub-category of goods
-	- Most popular ship mode
-	- Customer segmentation
-	- Customer retention and growth
+### Key Deliverables
 
-The graphs were created using Tableau.
+A presentation slide deck summarizing Offuture's performance from 2011 to 2015 is included. The slide deck contains the following insights:
+
+1.) Summary statistics
+	* Total Count of Orders: A detailed count of all orders during the period.
+	* Total Revenue: An overview of the revenue generated from global sales.
+	* Total Profit: Calculation of profit across all regions and years.
+
+2.) Product performance
+	* Best and Worst Performing Products: A global comparison of sales and profit margins by product, identifying the top and bottom performers.
+
+3.) Yearly performance overview
+	* A breakdown of yearly orders, revenue, and profit, providing a clear picture of Offuture's financial trajectory from 2011 to 2015.
+
+4.) Market analysis by region
+	* A comprehensive regional analysis, focusing on Offuture’s two most profitable markets: APAC and EU.
+ 		* Year-on-Year Profit: Trends in profitability by region.
+   		* Best and Worst Performing Products by Profit: Products that drive regional success and those underperforming.
+
+5.) Profit drivers and customer insights
+	* Most Popular Product Sub-Categories: Products that consistently sell well across various markets.
+ 	* Most Popular Shipping Modes: Analysis of shipping methods preferred by customers and their impact on profits.
+	* Customer Segmentation: Breaking down customer demographics to reveal high-value customer segments.
+	* Customer Retention and Growth: An analysis of customer loyalty and the company’s ability to grow its customer base over time.
+
+
+The insights from the analysis were visualised using Tableau.
